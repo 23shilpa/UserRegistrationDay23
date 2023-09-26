@@ -1,6 +1,8 @@
 package welcometouserregistration;
 
+import java.util.HashSet;
 import java.util.Scanner;
+import java.util.Set;
 import java.util.function.Predicate;
 
 public class PasswordValidator2 {
@@ -41,3 +43,10 @@ public class PasswordValidator2 {
         return specialCharacters.contains(String.valueOf(c));
     }
 }
+
+
+
+
+
+
+
