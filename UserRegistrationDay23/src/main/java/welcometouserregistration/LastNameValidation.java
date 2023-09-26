@@ -1,6 +1,7 @@
 package welcometouserregistration;
 
 import java.util.Scanner;
+import java.util.function.Predicate;
 
 public class LastNameValidation {
     public static void main(String[] args) {
@@ -25,3 +26,10 @@ public class LastNameValidation {
         scanner.close();
     }
 }
+
+
+
+
+
+
+
