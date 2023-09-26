@@ -2,6 +2,8 @@ package welcometouserregistration;
 
 import welcometouserregistration.NameValidator;
 
+import java.util.Scanner;
+
 public class FirstNameValidation {
     public static void main(String[] args) {
         // Lambda expression for validating the first name
@@ -25,3 +27,4 @@ public class FirstNameValidation {
         scanner.close();
     }
 }
+
